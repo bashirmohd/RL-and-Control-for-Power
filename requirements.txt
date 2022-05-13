@@ -1,0 +1,8 @@
+torch
+gym
+stable_baselines3[all]
+git+https://github.com/BorealisAI/advertorch@a823fd7f6e68a4cc8c99a48d00c9b831aeb6b5d8
+git+https://github.com/robinhenry/gym-anm@231097eb0fe00d26a55b6324581b875533916c94
+atari-py
+git+https://github.com/thu-ml/tianshou@cd481423dc4e63efda83f10213cfbe8680e71b76
+ale-py
